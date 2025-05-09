@@ -1,0 +1,6 @@
+2025/05/09-11:18:13.656 a9c6 Reusing MANIFEST /Users/rafael/Documents/work/bible-bot/tokens/bible-bot/Default/Local Storage/leveldb/MANIFEST-000001
+2025/05/09-11:18:13.664 a9c6 Recovering log #3
+2025/05/09-11:18:13.666 a9c6 Reusing old log /Users/rafael/Documents/work/bible-bot/tokens/bible-bot/Default/Local Storage/leveldb/000003.log 
+2025/05/09-11:20:14.481 a9c9 Level-0 table #5: started
+2025/05/09-11:20:14.488 a9c9 Level-0 table #5: 19694 bytes OK
+2025/05/09-11:20:14.493 a9c9 Delete type=0 #3
